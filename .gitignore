@@ -1,5 +1,4 @@
 /.metadata
-/Build
 /Cesium-*.zip
 /cesium-*.tgz
 .directory
@@ -13,10 +12,7 @@ Thumbs.db
 /Apps/Sandcastle/gallery/gallery-index.js
 /Apps/Sandcastle/templates/bucket.css
 
-/Specs/SpecList.js
-/Source/Shaders/**/*.js
-/Source/ThirdParty/Shaders/**/*.js
-/Source/Workers/**
+
 !/Source/Workers/cesiumWorkerBootstrapper.js
 !/Source/Workers/transferTypedArrayTest.js
 
